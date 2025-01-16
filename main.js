@@ -1,0 +1,1 @@
+window.prompt(`... <<< Welcome to our travelers blog platform >>> ...`)
